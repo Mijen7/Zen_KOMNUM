@@ -1,0 +1,65 @@
+# Project information
+site_name: MZainuddinU_Komnum
+site_description: A Site to publish an exercise
+site_author: MZainuddinU
+site_url: https://afaisw.github.io/_afaisw/
+
+# Repository
+repo_name: M Zainuddin U
+repo_url: https://mijen7.github.io/Zen_KOMNUM/
+edit_uri: ""
+
+# Copyright
+copyright: 'Copyright &copy; 2020 Mijen7'
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  feature:
+    tabs: true
+  palette:
+    primary: Black
+    accent: Pink
+  font:
+    text: Quicksand
+    code: Quicksand Mono
+  favicon: assets/images/favicon.png
+  logo:
+    icon: "\uE80C"
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  social:
+    - type: github-alt
+      link: https://github.com/mijen7
+
+
+# Page tree
+nav:
+  - Menu: index.md
+  - Contoh Navbar Submenu:
+    - Footnotes: Submenu/footnotes.md
+    
+
+# Google Analytics
+google_analytics:
+  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+  - auto
