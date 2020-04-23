@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/tugas1/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/tugas2/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/tugas3/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/tugas4/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://mijen7.github.io/Zen_KOMNUM/tugas5/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-23</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://mijen7.github.io/Zen_KOMNUM/tugas6/</loc>
+     <lastmod>2020-04-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
